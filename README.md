@@ -22,5 +22,5 @@ Enter the following commands in a bash terminal:
 
 ### Start a Jupyter Notebook
 1. Navigate to a project's folder, e.g. by `cd p1_trading_with_momentum`
-2. Start the notebook by `jupyter-notebook`
+2. Start the notebook by entering `jupyter-notebook` into the bash terminal.
 3. Select the corresponding notebook, e.g. `project_1_starter.ipynb`
