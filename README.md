@@ -6,3 +6,4 @@ Projects of Part 1 of Udacity's AI for Trading Nanodegree
 2. python -m pip install --upgrade pip 
 3. python -m pip install --upgrade wheel setuptools build
 4. python -m pip install -r requirements.txt
+5. python -m ipykernel install --user --name aitrading --display-name "ai-trading"
