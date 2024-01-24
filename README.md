@@ -17,7 +17,7 @@ Enter the following commands in a bash terminal:
 3. `conda activate aitrading`
 4. `python -m pip install --upgrade pip` 
 5. `python -m pip install --upgrade wheel setuptools build`
-6. `python -m pip install -r requirements.txt`
+6. `python -m pip install -r requirements_p1.txt`
 7. `python -m ipykernel install --user --name aitrading --display-name "ai-trading"`
 
 ### Start a Jupyter Notebook
