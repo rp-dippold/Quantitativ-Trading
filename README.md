@@ -18,7 +18,7 @@ Enter the following commands in a bash terminal:
 4. `python -m pip install --upgrade pip` 
 5. `python -m pip install --upgrade wheel setuptools build`
 6. `python -m pip install -r requirements_p1.txt`
-7. `python -m ipykernel install --user --name aitrading --display-name "ai-trading"`
+7. `python -m ipykernel install --user --name aitrading_p1 --display-name "ai-trading-p1"`
 
 ### Start a Jupyter Notebook
 1. Navigate to a project's folder, e.g. by `cd p1_trading_with_momentum`
