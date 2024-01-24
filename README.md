@@ -14,7 +14,7 @@ The Python environment created by the following steps works for every project.
 Enter the following commands in a bash terminal:
 1. `cd Quantitative-Trading`
 2. `conda create --name aitrading_p1 python=3.6.3 -c conda-forge`
-3. `conda activate aitrading`
+3. `conda activate aitrading_p1`
 4. `python -m pip install --upgrade pip` 
 5. `python -m pip install --upgrade wheel setuptools build`
 6. `python -m pip install -r requirements_p1.txt`
